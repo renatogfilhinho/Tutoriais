@@ -6,7 +6,7 @@ Comece bem!
 
 ## Material de estudo
 
-- <https://servidordebian.org/pt/stretch/before/about_this_guide>
+- <https://servidordebian.org/pt/start>
 
 - <https://debian-handbook.info/browse/pt-BR/stable/>
 
@@ -25,5 +25,7 @@ Comece bem!
    - [Grupo Debian Brasil](https://t.me/debianbrasil)
 
    - [Grupo Debian BR](https://t.me/debianbr)
+
+   - [Curso GNU](https://t.me/cursognu)
 
 
